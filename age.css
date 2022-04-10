@@ -1,0 +1,11 @@
+body{
+    padding-left: 500px;
+    padding-top: 100px;
+}
+fieldset{
+    height: 250px;
+    width:500px;
+    text-align: center ;
+    background-color: rgb(43, 226, 134);
+    font-family: monospace;
+}
